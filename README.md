@@ -1,8 +1,8 @@
 💊 Pharmacy Management System – C# Project
-📋 Project Overview
-This is a C# Windows Forms application for managing the daily operations of a pharmacy. It helps manage medicines, customers, orders, and suppliers. The system includes three types of users: Admin, Employee, and Supplier, each with different access and responsibilities.
+<p>📋 Project Overview
+This is a C# Windows Forms application for managing the daily operations of a pharmacy. It helps manage medicines, customers, orders, and suppliers. The system includes three types of users: Admin, Employee, and Supplier, each with different access and responsibilities.</p>
 
-🧑‍💻 Technologies Used
+<p>🧑‍💻 Technologies Used</p>
 C# (.NET Framework)
 Windows Forms (WinForms)
 ADO.NET
